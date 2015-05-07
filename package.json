@@ -1,0 +1,34 @@
+{
+  "name": "react-autosize",
+  "version": "1.0.0",
+  "description": "React component for providing width and height based on parent element",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "grunt dev"
+  },
+  "keywords": [
+    "react",
+    "autosize"
+  ],
+  "author": "Peter Beshai",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=0.13.0"
+  },
+  "devDependencies": {
+    "babel": "^5.2.16",
+    "babel-core": "^5.2.16",
+    "babel-loader": "^5.0.0",
+    "grunt": "^0.4.5",
+    "grunt-webpack": "^1.0.8",
+    "react": "^0.13.2",
+    "react-hot-loader": "^1.2.7",
+    "webpack": "^1.8.11",
+    "webpack-dev-server": "^1.8.2"
+  }
+}
